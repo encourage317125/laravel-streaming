@@ -16,7 +16,7 @@ I plan to explore various Real Time Communication offerings and build demo apps 
 ## Project Setup
 
 1. Clone the repository.<br/>
-`git clone https://github.com/Mupati/laravel-video-chat`
+`git clone https://github.com/passion0805/laravel-streaming`
 
 2. Install dependencies<br/>
 `composer install && npm install`
